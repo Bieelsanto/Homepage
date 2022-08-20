@@ -68,12 +68,6 @@ header a:hover{
 #div1{
     flex-flow: row nowrap;
     justify-content: space-between;
-
-}
-#div1-1{
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: space-between;
 }
 #div2{
     margin-top: 40px;
