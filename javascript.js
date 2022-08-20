@@ -8,4 +8,4 @@ const idIntervalo = setInterval(() => {
   indice++;
   if (indice > frase.length) clearInterval(idIntervalo);
   return;
-}, 200);
+}, 400);
